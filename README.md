@@ -1,5 +1,5 @@
 # Flutter_project
-Flutter project with Firestore
+Flutter application project with Firestore
 
 ## ⏳ 개발기간
 
@@ -9,7 +9,7 @@ Flutter project with Firestore
 
 ## 📖 개요
 
-Flutter project with Firestore
+Flutter application project with Firestore
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"> <a>&nbsp;</a> <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black"><br>
 
