@@ -34,11 +34,11 @@ Flutter application project with Firestore
    </p>
 
  * ### Main screen
-   게시글 목록
+   사용자 정보 및 게시글 목록
    <p  width="100%">
-     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/0c82ae2c-caa5-4a50-a409-a4630f72b65e" width="40%" style="float:left; margin-right:20px;">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/b628e192-d9da-4537-bb88-9082448cf975" width="40%" style="float:left; margin-right:20px;">
      <a>&nbsp; &nbsp;</a>
-     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/b628e192-d9da-4537-bb88-9082448cf975" width="40%">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/0c82ae2c-caa5-4a50-a409-a4630f72b65e" width="40%">
    </p>
    
  * ### Detail screen
