@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flutter_project
 Flutter project with Firestore
 
