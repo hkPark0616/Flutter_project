@@ -11,7 +11,7 @@ Flutter project with Firestore
 
 Flutter project with Firestore
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"> <a>&nbsp; &nbsp;</a> <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black"><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"> <a>&nbsp;</a> <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black"><br>
 
 <br/>
 
