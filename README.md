@@ -3,7 +3,7 @@ Flutter application project with Firestore
 
 ## ⏳ 개발기간
 
-2024.02.15 ~ 2024.04.15
+2024.02.15 ~ 2024.04.15 <br/>
 2024.06.24 ~ 
 <br/>
 
