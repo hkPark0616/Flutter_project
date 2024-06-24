@@ -194,12 +194,6 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
-    // options: const FirebaseOptions(
-    //   apiKey: "AIzaSyCMPECCllNGCxpAY9LVwpzRASZwCaQTiHY",
-    //   appId: "1:329616044616:android:62c8f67bd06f12c4ca1e7d",
-    //   messagingSenderId: "329616044616",
-    //   projectId: "myapp-644c8",
-    // ),
   );
   //getToken();
 
