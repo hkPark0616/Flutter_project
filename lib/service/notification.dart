@@ -5,7 +5,7 @@ import 'package:myapp/models/board.dart';
 Future<void> sendNotificationToDevice(
     String userToken, String title, String content, Board data) async {
   String serverKey =
-      "AAAATL6lskg:APA91bFTwOcRepADvzTKTaaN9xGuqhezobNUPNEp4_Ayj-M_hObzyo_WYuxLDoOnSvL2kUhn4lGJsYdaKVdxft_HubaMWaf1lOFdo2yKqhHtZ7e_d_H7DsTMFLy-J9zUdaGMfgGdxFyd";
+      "server Key";
   // final url = Uri.parse('https://fcm.googleapis.com/fcm/send');
 
   http.Response response;
