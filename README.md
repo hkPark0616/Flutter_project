@@ -20,9 +20,9 @@ Flutter application project with Firestore
  * ### Login
    로그인
    <p  width="100%">
-     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/88ecbf20-019a-4aba-9d37-7fd11277d6d2" width="40%" style="float:left; margin-right:20px;">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/88ecbf20-019a-4aba-9d37-7fd11277d6d2"  style="float:left; margin-right:20px;">
      <a>&nbsp; &nbsp;</a>
-     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/8cef83a3-7469-4386-87e4-f93a6880f0a2" width="40%">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/8cef83a3-7469-4386-87e4-f93a6880f0a2" >
    </p>
 
  * ### Signup
