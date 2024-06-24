@@ -11,14 +11,9 @@ Flutter project with Firestore
 
 Flutter project with Firestore
 
-
-####  Front-end
-  
 * <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"><br>
 
-####  Database
-
-* <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><br>
+* <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black"><br>
 
 <br/>
 
