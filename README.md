@@ -33,8 +33,10 @@ Flutter application project with Firestore
      <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/3b26c95f-f578-4217-9314-ea17beecea65" width="30%">
    </p>
 
- * ### Main board screen
+ * ### Main screen
    게시글 목록 화면
-   Drawer 메뉴를 통해 간단한 사용자 정보를 확인할 수 있으며, Floating 버튼을 클릭 시 게시글을 작성할 수 있는 화면으로 이동할 수 있습니다.
+   <p  width="100%">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/0c82ae2c-caa5-4a50-a409-a4630f72b65e" width="30%">
+   </p>
 
 
