@@ -28,15 +28,33 @@ Flutter application project with Firestore
  * ### Signup
    회원가입
    <p  width="100%">
-     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/1df2ea55-fdab-4778-97f9-f9399ed7c6d9" width="30%" style="float:left; margin-right:20px;">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/1df2ea55-fdab-4778-97f9-f9399ed7c6d9" width="40%" style="float:left; margin-right:20px;">
      <a>&nbsp; &nbsp;</a>
-     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/3b26c95f-f578-4217-9314-ea17beecea65" width="30%">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/3b26c95f-f578-4217-9314-ea17beecea65" width="40%">
    </p>
 
  * ### Main screen
    게시글 목록 화면
    <p  width="100%">
-     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/0c82ae2c-caa5-4a50-a409-a4630f72b65e" width="30%">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/0c82ae2c-caa5-4a50-a409-a4630f72b65e" width="40%">
+   </p>
+   
+ * ### Detail screen
+   게시글 목록 화면
+   <p  width="100%">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/0c82ae2c-caa5-4a50-a409-a4630f72b65e" width="40%">
+   </p>
+
+ * ### Write screen
+   게시글 작성 화면
+   <p  width="100%">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/0c82ae2c-caa5-4a50-a409-a4630f72b65e" width="40%">
+   </p>
+
+ * ### Main screen
+   게시글 목록 화면
+   <p  width="100%">
+     <img src="https://github.com/hkPark0616/Flutter_project/assets/113004801/0c82ae2c-caa5-4a50-a409-a4630f72b65e" width="40%">
    </p>
 
 
